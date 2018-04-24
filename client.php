@@ -3,8 +3,8 @@
 $config = array(  
             'location' => 'http://localhost/webservice/service.php',  
             'uri' => 'myserver',  
-            'login' => 'fdipzone',  
-            'password' => '123456',  
+            // 'login' => 'fdipzone',  
+            // 'password' => '123456',  
             'trace' => true  
 );  
   
